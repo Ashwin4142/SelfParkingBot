@@ -5,7 +5,7 @@ Project Name: Parkbot
 
 Team Members:
 - [Vishesh Singh Thakur, vthakur@buffalo.edu]
-- [Ashwin Nair, anair3@gmail.com]
+- [Ashwin Nair, anair3@buffalo.edu]
 
  YouTube video link - https://youtu.be/m_Vm3xRwZ_k
 ---
